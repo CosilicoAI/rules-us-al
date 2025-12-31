@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-3" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-3" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="2-12-3" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-3/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-3/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-3/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-3/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1955, 2nd Ex. Sess., No. 46, p. 152, §3.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_2">
+        <akn:chapter eId="title_2_chp_12">
+          <akn:section eId="sec_2_12_3">
+            <akn:num>2-12-3</akn:num>
+            <akn:heading>Grades, Standards and Weight Classes</akn:heading>
+            <akn:content>
+              <akn:p>To provide for uniformity in the marketing of eggs, the Commissioner of Agriculture and Industries, with the approval of the State Board of Agriculture and Industries, shall adopt and promulgate, from time to time, reasonable classifications or standards for grades of quality and weight classifications or standards for the size of eggs to be sold or offered for sale in this state, and such grades and weight classes shall, so far as practicable, be consistent with the standards and classifications for grades and weight classes of the United States Department of Agriculture and the tolerances allowed thereunder as such standards, grades and weight classes are now established or may hereafter be amended. Eggs unfit for human consumption may also be defined by the State Board of Agriculture and Industries.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

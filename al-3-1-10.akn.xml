@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-10" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-10" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="3-1-10" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-10/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-10/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-10/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-10/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Code 1852, §§186, 191; Code 1867, §§3733, 3738; Code 1876, §§4408, 4420; Code 1886, §3869; Code 1896, §§5090, 5091; Code 1907, §6230; Code 1923, §3212; Code 1940, T. 3, §9; Acts 1982, No. 82-626, p. 1180.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_3">
+        <akn:chapter eId="title_3_chp_1">
+          <akn:section eId="sec_3_1_10">
+            <akn:num>3-1-10</akn:num>
+            <akn:heading>Wanton, Malicious, Etc., Destruction, Injury, Etc., of Animal or Article or Commodity of Value of Another - Prohibited</akn:heading>
+            <akn:content>
+              <akn:p>Any person, who unlawfully, wantonly or maliciously kills, disables, disfigures, destroys or injures any animal or article or commodity of value which is the property of another must, on conviction, be fined not less than twice the value of the injury or damage to the owner of the property nor more than $1,000.00 and may also be imprisoned in the county jail, or sentenced to hard labor for the county for not more than six months, and so much of the fine as may be necessary to repair the injury or loss shall go to the party injured.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

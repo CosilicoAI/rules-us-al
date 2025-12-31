@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/4-2A-3" />
+          <akn:FRBRuri value="/akn/us-al/act/code/4-2A-3" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="4-2A-3" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/4-2A-3/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/4-2A-3/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/4-2A-3/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/4-2A-3/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1991, No. 91-667, p. 1275, §3; Acts 1992, No. 92-443, p. 899, §1.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_4">
+        <akn:chapter eId="title_4_chp_2A">
+          <akn:section eId="sec_4_2A_3">
+            <akn:num>4-2A-3</akn:num>
+            <akn:heading>Citizens to Present Application to Secretary of State</akn:heading>
+            <akn:content>
+              <akn:p>REPEALED IN THE 2018 REGULAR SESSION BY ACT 2018-152 EFFECTIVE JUNE 1, 2018. THIS IS NOT IN THE CURRENT CODE SUPPLEMENT.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

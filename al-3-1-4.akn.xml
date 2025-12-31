@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-4" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-4" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="3-1-4" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-4/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-4/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-4/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-4/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Code 1876, §4405; Code 1886, §4171; Code 1896, §5591; Code 1907, §6236; Code 1923, §3219; Code 1940, T. 3, §4.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_3">
+        <akn:chapter eId="title_3_chp_1">
+          <akn:section eId="sec_3_1_4">
+            <akn:num>3-1-4</akn:num>
+            <akn:heading>Permitting Dog or Hog Known to Kill, Etc., Sheep, Domestic Fowl, Etc., to Run at Large</akn:heading>
+            <akn:content>
+              <akn:p>Any person, who, owning or having in his possession or under his control any dog or hog known to worry or kill sheep, domestic fowls or goats suffers such dog or hog to run at large must, on conviction, be fined not less than $5.00 nor more than $50.00.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

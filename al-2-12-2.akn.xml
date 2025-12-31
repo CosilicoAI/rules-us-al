@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-2" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-2" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="2-12-2" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-2/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-2/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-2/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-2/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1955, 2nd Ex. Sess., No. 46, p. 152, §2; Acts 1955, No. 531, p. 1179; Acts 1975, No. 342, p. 876, §2.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_2">
+        <akn:chapter eId="title_2_chp_12">
+          <akn:section eId="sec_2_12_2">
+            <akn:num>2-12-2</akn:num>
+            <akn:heading>Sale Requirements</akn:heading>
+            <akn:intro>
+              <akn:p>It shall be unlawful:</akn:p>
+            </akn:intro>
+            <akn:paragraph eId="sec_2_12_2__para_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>For any dealer to offer for sale or sell any case of eggs or partial case of eggs without clearly imprinting thereon or securely attaching thereto a label on which there shall be plainly and legibly printed the name and the address of the packer of said eggs, the grade and weight class to which the eggs contained therein conform and the date on which the eggs were graded. The label and the printed matter required to appear thereon shall be of a size to be prescribed by regulations adopted by the State Board of Agriculture and Industries;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_2__para_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>For any dealer to offer for sale or sell eggs in any carton or other type of package without clearly designating thereon the name and address of the packer of said eggs or person responsible for such packing, the grade and weight class to which the eggs contained therein conform and the date on which the eggs were graded. Grade and weight class designations required on cartons or other packages shall be in letters of a size to be prescribed by regulations adopted by the State Board of Agriculture and Industries, and said board is also authorized to provide or establish by regulations an alternate or optional method under which the date on which the eggs were graded as required to be shown on any case, carton or other container of eggs under subsection (a) of this section and this subsection may be shown or designated thereon by a code number system, abbreviations, an expiration date or in any other manner approved by the board whereby the date on which the eggs are graded can be ascertained therefrom by the Commissioner of Agriculture and Industries, his agents or employees;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_2__para_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>For any dealer to offer for sale or sell eggs in bulk (not in cases, cartons, packages or other containers) from any open case, box, basket, crate or other receptacle holding such eggs in bulk without displaying conspicuously on every such receptacle a placard or heavy cardboard not smaller than seven inches by seven inches in size on which there shall be legibly and plainly printed the grade and weight class to which the eggs contained therein conform in letters not smaller than one inch in height;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_2__para_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>For any dealer or other person to offer eggs for sale by means of any newspaper advertisement, circular, window displays, radio, television or other form of advertising when the price of eggs offered for sale is designated without plainly designating in such advertisements the grade and weight class to which the eggs so advertised and offered for sale conform;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_2__para_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>For any dealer or other person to use the term “Alabama” in connection with the advertisement and sale of eggs not produced in this state;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_2__para_6">
+              <akn:num>(6)</akn:num>
+              <akn:content>
+                <akn:p>For any dealer or other person to use the word or words “fresh,” “strictly fresh,” “hennery eggs,” “country,” “locally produced,” “day-old,” “select,” “guaranteed,” “certified” or any other similar descriptive terms in connection with the advertising or sale of any eggs, unless such eggs meet the standard minimum requirements for consumer grade A eggs or consumer grade AA eggs as such grades are prescribed under the provisions of this chapter;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_2__para_7">
+              <akn:num>(7)</akn:num>
+              <akn:content>
+                <akn:p>For any dealer or other person to sell or offer for sale eggs not fit for human food as such eggs are defined under grades and standards established by the State Board of Agriculture and Industries under the provisions of this chapter;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_2__para_8">
+              <akn:num>(8)</akn:num>
+              <akn:content>
+                <akn:p>For any dealer to sell or offer for sale eggs unless the grade and weight class designation stated on the label, placard, sign or advertisement correctly states the grade and weight class to which the eggs conform;</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_2__para_9">
+              <akn:num>(9)</akn:num>
+              <akn:content>
+                <akn:p>For any dealer to sell or offer for sale eggs unless such dealer has a permit as required under Section 2-12-4; or</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_2__para_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>For any dealer to sell or offer for sale eggs in violation of any rule or regulation adopted and promulgated under the provisions of this chapter.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-1" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-1" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="2-12-1" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-1/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-1/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-1/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-1/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1955, 2nd Ex. Sess., No. 46, p. 152, §1; Acts 1961, Ex. Sess., No. 194, p. 2167, §1; Acts 1975, No. 342, §1.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_2">
+        <akn:chapter eId="title_2_chp_12">
+          <akn:section eId="sec_2_12_1">
+            <akn:num>2-12-1</akn:num>
+            <akn:heading>Definitions</akn:heading>
+            <akn:intro>
+              <akn:p>For the purpose of this chapter, the following terms shall have the meanings respectively ascribed to them in this section, unless the context clearly indicates a different meaning:</akn:p>
+            </akn:intro>
+            <akn:paragraph eId="sec_2_12_1__para_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>DEALER. </akn:def>Any person who sells or offers eggs for sale in this state.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_1__para_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>PERSON. </akn:def>Any individual, firm, partnership, corporation or association.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_1__para_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>EGGS. </akn:def>The eggs of a domesticated chicken hen, which eggs are in the shell.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_1__para_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>ALABAMA EGGS. </akn:def>Eggs which are produced in the State of Alabama.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_1__para_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>GRADE. </akn:def>The quality of eggs to be determined by candling pursuant to standards or classifications for quality which are adopted and promulgated under Section 2-12-3.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_1__para_6">
+              <akn:num>(6)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>WEIGHT CLASS. </akn:def>The size of eggs to be determined by weighing pursuant to standards or classifications for size which are adopted and promulgated under Section 2-12-3.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_1__para_7">
+              <akn:num>(7)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>WHOLESALE. </akn:def>Such term shall include the sale of eggs by a dealer to a retailer or to another wholesaler.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_1__para_8">
+              <akn:num>(8)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>RETAIL. </akn:def>The sale of eggs to the user or consumer.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_2_12_1__para_9">
+              <akn:num>(9)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>PRODUCER. </akn:def>A person who sells eggs of his own hens’ production only.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

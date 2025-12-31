@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-10" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-10" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="1-1-10" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-10/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-10/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-10/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-10/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Code 1852, §10; Code 1867, §10; Code 1876, §10; Code 1886, §10; Code 1896, §10; Code 1907, §10; Code 1923, §11; Code 1940, T. 1, §9.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_1">
+        <akn:chapter eId="title_1_chp_1">
+          <akn:section eId="sec_1_1_10">
+            <akn:num>1-1-10</akn:num>
+            <akn:heading>Repeal of Uncodified Statutes of Public, General, and Permanent Nature; Certain Statutes Saved from Repeal</akn:heading>
+            <akn:content>
+              <akn:p>Subject to the provisions of this section, or as may be otherwise provided in this Code, all statutes of a public, general and permanent nature, not included in this Code, are repealed. The foregoing provisions of this section shall not repeal, nor be construed to repeal, local, private or special statutes; nor statutes which relate to or apply to only one county, municipality, political subdivision, district or territory; nor statutes which apply to one or more counties, municipalities, political subdivisions, districts or territories on the basis of population; nor statutes in effect on the effective date of this Code which apply to one or more judicial circuits of the state, whether by specific reference thereto, or the basis of population or by some other method of identification or classification; nor statutes in effect on the effective date of this Code which establish the amount or rate of salary or compensation of any state officer or employee or any other person whose salary or compensation is paid, in whole or in part, by the state, or which establish minimum or maximum amounts of salary or compensation, or which provide additional compensation for the performance of specified services or duties; nor statutes relating to the swamp and overflowed lands; nor statutes relating to the public debt or authorizing the issuance of bonds or other evidence of indebtedness by the state or any county, municipality, political subdivision or agency thereof; nor statutes appropriating funds; nor any act submitting an amendment to the Constitution or any act to be effective upon the adoption of such an amendment to the Constitution; nor statutes becoming effective after the effective date of this Code.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

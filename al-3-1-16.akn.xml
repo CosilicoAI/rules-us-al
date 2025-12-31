@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-16" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-16" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="3-1-16" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-16/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-16/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-16/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-16/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1911, No. 127, p. 112; Code 1923, §3217; Code 1940, T. 3, §13.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_3">
+        <akn:chapter eId="title_3_chp_1">
+          <akn:section eId="sec_3_1_16">
+            <akn:num>3-1-16</akn:num>
+            <akn:heading>Employment by County Commissions of Persons to Enforce Laws for Prevention of Cruelty to Animals; Compensation, Oath and Powers of Same</akn:heading>
+            <akn:content>
+              <akn:p>The county commissions of the respective counties of this state may employ a suitable person or persons who shall be charged specially with the duty of enforcing all laws for the prevention of cruelty to animals, and to fix the compensation of such officer or officers, which shall be paid in the same manner as other salaries of county employees are paid, and such officer or officers, upon taking the oath as required to be taken by deputy sheriffs, shall be vested with all powers now vested by law in deputy sheriffs.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

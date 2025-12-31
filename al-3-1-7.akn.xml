@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-7" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-7" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="3-1-7" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-7/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-7/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-7/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-7/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1967, No. 518, p. 1242; Act 99-698, 2nd. Sp. Sess., p. 207, §1.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_3">
+        <akn:chapter eId="title_3_chp_1">
+          <akn:section eId="sec_3_1_7">
+            <akn:num>3-1-7</akn:num>
+            <akn:heading>Refusal to Permit Dog Guide to Accompany Blind Person into Place of Public Accommodation, Etc</akn:heading>
+            <akn:content>
+              <akn:p>No owner, lessee, proprietor, manager, superintendent, agent, or employee of any place of public accommodation, amusement or recreation, including, but not limited to, any inn, hotel, restaurant, eating establishment, barbershop, billiard parlor, store, public conveyance, theater, motion-picture house, public educational institution, or elevator shall refuse to permit a guide dog to accompany a blind person entering the place or making use of the accommodations available when the blind person is being led by the guide dog; if the guide dog is wearing a harness; and the blind person presents for inspection credentials issued by an accredited school for training guide dogs or the dog is being trained by a person employed by an accredited school for training guide dogs. Any person who violates this section shall be guilty of a misdemeanor and, upon conviction shall be fined an amount not to exceed fifty dollars ($50).</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

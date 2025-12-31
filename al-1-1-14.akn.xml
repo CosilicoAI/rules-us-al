@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-14" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-14" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="1-1-14" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-14/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-14/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-14/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-14/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_1">
+        <akn:chapter eId="title_1_chp_1">
+          <akn:section eId="sec_1_1_14">
+            <akn:num>1-1-14</akn:num>
+            <akn:heading>Classification and Organization of Code; Notes and Catchlines of Sections Not Part of Law</akn:heading>
+            <akn:intro>
+              <akn:p>(a) The classification and organization of the titles, chapters, articles, divisions, subdivisions and sections of this Code, and the headings thereto, are made for the purpose of convenient reference and orderly arrangement, and no implication, inference or presumption of a legislative construction shall be drawn therefrom.</akn:p>
+            </akn:intro>
+            <akn:content>
+              <akn:p>(b) Unless otherwise provided in this Code, the descriptive headings or catchlines immediately preceding or within the text of the individual sections of this Code, except the section numbers included in the headings or catchlines immediately preceding the text of such sections, do not constitute part of the law, and shall in no manner limit or expand the construction of any such section. All historical citations and notes set out in this Code are given for the purpose of convenient reference, and do not constitute part of the law.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

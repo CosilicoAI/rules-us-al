@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-5" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-5" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="3-1-5" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-5/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-5/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-5/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-5/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1915, No. 185, p. 259; Code 1923, §3221; Code 1940, T. 3, §5.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_3">
+        <akn:chapter eId="title_3_chp_1">
+          <akn:section eId="sec_3_1_5">
+            <akn:num>3-1-5</akn:num>
+            <akn:heading>Permitting Dogs to Run at Large; Applicability of Provisions of Section in Counties and Certain Cities or Towns</akn:heading>
+            <akn:intro>
+              <akn:p>(a) Every person owning or having in charge any dog or dogs shall at all times confine such dog or dogs to the limits of his own premises or the premises on which such dog or dogs is or are regularly kept. Nothing in this section shall prevent the owner of any dog or dogs or other person or persons having such dog or dogs in his or their charge from allowing such dog or dogs to accompany such owner or other person or persons elsewhere than on the premises on which such dog or dogs is or are regularly kept. Any person violating this section shall be guilty of a misdemeanor and shall be fined not less than $2.00 nor more than $50.00.</akn:p>
+            </akn:intro>
+            <akn:content>
+              <akn:p>(b) This section shall not apply to the running at large of any dog or dogs within the corporate limits of any city or town in this state that requires a license tag to be kept on dogs nor shall this section apply in any county in this state until the same has been adopted by the county commission of such county.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

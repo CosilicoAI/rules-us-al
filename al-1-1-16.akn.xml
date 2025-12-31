@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-16" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-16" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="1-1-16" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-16/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-16/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-16/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-16/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_1">
+        <akn:chapter eId="title_1_chp_1">
+          <akn:section eId="sec_1_1_16">
+            <akn:num>1-1-16</akn:num>
+            <akn:heading>Severability of Provisions of Code and Statutes</akn:heading>
+            <akn:content>
+              <akn:p>If any provision of this Code or any amendment hereto, or any other statute, or the application thereof to any person, thing or circumstances, is held invalid by a court of competent jurisdiction, such invalidity shall not affect the provisions or application of this Code or such amendment or statute that can be given effect without the invalid provisions or application, and to this end, the provisions of this Code and such amendments and statutes are declared to be severable.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

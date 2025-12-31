@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-1.1" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-1.1" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="1-1-1.1" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-1.1/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-1.1/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-1.1/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-1.1/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Act 2025-3, §§1, 2.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_1">
+        <akn:chapter eId="title_1_chp_1">
+          <akn:section eId="sec_1_1_1_1">
+            <akn:num>1-1-1.1</akn:num>
+            <akn:heading>Sex-Based Terminology; Legislative Findings and Intent</akn:heading>
+            <akn:intro>
+              <akn:p>(b) The Legislature finds and declares all of the following:</akn:p>
+            </akn:intro>
+            <akn:paragraph eId="sec_1_1_1_1__para_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>Men and women are legally equal but are not physically the same.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1_1__para_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>The State of Alabama has an important interest in preventing unjust sex discrimination and in maintaining safety, privacy, and fairness for both sexes.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1_1__para_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>Inconsistencies in court rulings and policy initiatives regarding sex discrimination and common sex-based words have endangered women’s rights and resources and have put the existence of private, single-sex spaces in jeopardy.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1_1__para_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>There are only two sexes, and every individual is either male or female. The term “sex” is objective and fixed. Individuals with differences in sex development, also known as “DSDs” or “intersex conditions,” are not a third sex. Individuals with a congenital or medically verifiable DSD diagnosis must be accommodated consistent with state and federal law.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1_1__para_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>With respect to equality of the sexes, the term “equal” does not mean “same” or “identical.”</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-15" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-15" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="3-1-15" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-15/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-15/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-15/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-15/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1959, No. 104, p. 590.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_3">
+        <akn:chapter eId="title_3_chp_1">
+          <akn:section eId="sec_3_1_15">
+            <akn:num>3-1-15</akn:num>
+            <akn:heading>Sale, Offer for Sale, Barter, Etc., of Baby Rabbits, Chicks, Ducklings, Etc., as Pets or Novelties</akn:heading>
+            <akn:intro>
+              <akn:p>It shall be unlawful for any person, firm or corporation to display, sell, offer for sale, barter or give away any baby rabbits, or baby chicks, ducklings or other fowl, but not including parrots, parakeets and canaries, as pets or novelties, regardless of whether or not such rabbits or fowl are dyed, colored or otherwise artificially treated.</akn:p>
+            </akn:intro>
+            <akn:content>
+              <akn:p>Whoever violates this section is guilty of a misdemeanor and, upon conviction thereof, shall be punished as prescribed by law.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

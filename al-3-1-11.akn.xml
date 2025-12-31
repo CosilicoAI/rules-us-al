@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-11" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-11" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="3-1-11" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-11/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-11/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-11/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-11/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Code 1876, §4411; Code 1886, §3871; Code 1896, §5092; Code 1907, §6231; Code 1923, §3213; Code 1940, T. 3, §10.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_3">
+        <akn:chapter eId="title_3_chp_1">
+          <akn:section eId="sec_3_1_11">
+            <akn:num>3-1-11</akn:num>
+            <akn:heading>Wanton, Malicious, Etc., Destruction, Injury, Etc., of Animal or Article or Commodity of Value of Another — Proof of Trespassing by Animal in Mitigation or Justification of Offense; Tender of Compensation</akn:heading>
+            <akn:content>
+              <akn:p>Upon the trial, the defendant may prove in mitigation or justification, as the jury may determine, that, at the time of the killing, disabling, disfiguring, destruction or injury, the animal killed, disabled, disfigured, destroyed or injured was trespassing and had within six months previously thereto trespassed upon a growing crop, inclosed by a lawful fence or while such animal was running at large in violation of law. No conviction must be had, if it is shown that, before the commencement of the prosecution, compensation for the injury was made or tendered to the owner.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

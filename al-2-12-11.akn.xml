@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-11" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-11" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="2-12-11" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-11/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-11/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-11/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-11/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1955, 2nd Ex. Sess., No. 46, p. 152, §13; Acts 1961, Ex. Sess., No. 194, p. 2167, §7.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_2">
+        <akn:chapter eId="title_2_chp_12">
+          <akn:section eId="sec_2_12_11">
+            <akn:num>2-12-11</akn:num>
+            <akn:heading>Offenses; Disposition of Fines</akn:heading>
+            <akn:content>
+              <akn:p>Any person who shall perform any of the acts which are declared unlawful by the provisions of this chapter or who fails to perform any duty or requirement imposed by the provisions of this article relating to the sale or offering for sale of eggs or who shall hinder or obstruct any authorized agent of the Commissioner of Agriculture and Industries by refusing to allow entrance at any reasonable time into any place of business for the purpose of enforcing the provisions of this article, including the review of books and records of egg sales, or who violates any rule or regulation duly promulgated under this chapter, shall be guilty of a misdemeanor and punished as now prescribed by law for such offenses. All amounts collected under this chapter as fines shall be deposited into the State Treasury to the credit of the Egg Inspection Fund existing under the provisions of Section 2-9-40.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

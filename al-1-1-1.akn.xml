@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-1" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-1" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="1-1-1" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-1/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-1/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/1-1-1/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/1-1-1/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Code 1852, §§1, 2, 4-8; Code 1867, §§1, 2, 4-8; Code 1876, §§1, 2, 4-8; Code 1886, §§1, 2, 4-8; Code 1896, §§1, 2, 4-8; Code 1907, §§1, 2, 4-8; Code 1923, §§1, 2, 4-9; Acts 1927, No. 625, p. 716; Code 1940, T. 1, §2; Acts 1951, No. 268, p. 551; Act 2025-3; §3.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_1">
+        <akn:chapter eId="title_1_chp_1">
+          <akn:section eId="sec_1_1_1">
+            <akn:num>1-1-1</akn:num>
+            <akn:heading>Meaning of Certain Words and Terms</akn:heading>
+            <akn:intro>
+              <akn:p>The following words, whenever they appear in this code, have the following meanings unless otherwise apparent from the context or otherwise explicitly defined:</akn:p>
+            </akn:intro>
+            <akn:paragraph eId="sec_1_1_1__para_1">
+              <akn:num>(1)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>BOY. </akn:def>A human male who has not yet reached adulthood.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_2">
+              <akn:num>(2)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>FATHER. </akn:def>The male parent of a child or children.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_3">
+              <akn:num>(3)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>FEMALE. </akn:def>When used in reference to a natural person, an individual who has, had, will have, or would have, but for a developmental anomaly, genetic anomaly, or accident, the reproductive system that at some point produces ova.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_4">
+              <akn:num>(4)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>GIRL. </akn:def>A human female who has not yet reached adulthood.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_5">
+              <akn:num>(5)</akn:num>
+              <akn:content>
+                <akn:p>JURY or JURIES. Includes courts or judges in all cases when a jury trial is waived, or when the court or judge is authorized to ascertain and determine the facts as well as the law.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_6">
+              <akn:num>(6)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>MALE. </akn:def>When used in reference to a natural person, an individual who has, had, will have, or would have, but for a developmental anomaly, genetic anomaly, or accident, the reproductive system that at some point produces sperm.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_7">
+              <akn:num>(7)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>MAN. </akn:def>An adult human of the male sex.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_8">
+              <akn:num>(8)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>MONTH. </akn:def>A calendar month.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_9">
+              <akn:num>(9)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>MOTHER. </akn:def>The female parent of a child or children.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_10">
+              <akn:num>(10)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>PERSON. </akn:def>Includes an individual, corporation, partnership, company, or other business entity.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_11">
+              <akn:num>(11)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>PERSONAL PROPERTY. </akn:def>Includes money, goods, chattels, things in action and evidence of debt, deeds, and conveyances.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_12">
+              <akn:num>(12)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>PROPERTY. </akn:def>Includes both real and personal property.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_13">
+              <akn:num>(13)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>REAL PROPERTY. </akn:def>Includes lands, tenements, and hereditaments.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_14">
+              <akn:num>(14)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>SEX. </akn:def>When the term is used to classify or describe a natural person, the state of being male or female as observed or clinically verified at birth.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_15">
+              <akn:num>(15)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>SIGNATURE. </akn:def>Includes a mark when an individual cannot write, if his or her name is written near the mark and witnessed by an individual who writes his or her own name as a witness.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_16">
+              <akn:num>(16)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>STATE. </akn:def>When applied to the different parts of the United States, includes the District of Columbia and the several territories of the United States.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_17">
+              <akn:num>(17)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>UNITED STATES. </akn:def>Includes the territories thereof and the District of Columbia.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_18">
+              <akn:num>(18)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>WOMAN. </akn:def>An adult human of the female sex.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+            <akn:paragraph eId="sec_1_1_1__para_19">
+              <akn:num>(19)</akn:num>
+              <akn:content>
+                <akn:p>
+                  <akn:def>YEAR. </akn:def>A calendar year, except whenever the word “year” is used in reference to any appropriations for the payment of money out of the treasury, the term shall mean a fiscal year.</akn:p>
+              </akn:content>
+            </akn:paragraph>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

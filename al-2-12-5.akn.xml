@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-5" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-5" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="2-12-5" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-5/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-5/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-5/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-5/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1955, 2nd Ex. Sess., No. 46, p. 152, §7; Acts 1961, Ex. Sess., No. 194, p. 2167, §3.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_2">
+        <akn:chapter eId="title_2_chp_12">
+          <akn:section eId="sec_2_12_5">
+            <akn:num>2-12-5</akn:num>
+            <akn:heading>Sales Between Wholesale Dealers</akn:heading>
+            <akn:content>
+              <akn:p>A wholesale dealer who is a holder of a permit issued under the provisions of this chapter may sell or consign eggs to another wholesale dealer who holds such a permit without complying with the labeling requirements of this chapter. Such sales must be accompanied by a proper bill of sale or invoice, and the wholesale dealer to whom such eggs are sold or consigned shall, prior to selling or offering them for sale, comply with all of the requirements of this chapter.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

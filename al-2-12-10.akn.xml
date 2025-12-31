@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-10" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-10" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="2-12-10" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-10/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-10/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/2-12-10/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/2-12-10/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1955, 2nd Ex. Sess., No. 46, p. 152, §12; Acts 1961, Ex. Sess., No. 194, p. 2167, §6.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_2">
+        <akn:chapter eId="title_2_chp_12">
+          <akn:section eId="sec_2_12_10">
+            <akn:num>2-12-10</akn:num>
+            <akn:heading>Inspections of Buildings, Vehicles, Records, Etc.; Penalty for Failure to Pay Inspection Fee or Affix Labels</akn:heading>
+            <akn:content>
+              <akn:p>The Commissioner of Agriculture and Industries, authorized inspectors, employees and agents of the Department of Agriculture and Industries shall have power and authority during business hours to enter any store, market or other building or place where eggs are sold or offered for sale or kept for sale or where such eggs are packaged, graded and labeled in this state or to stop and inspect any truck or other vehicle transporting eggs to be sold or offered for sale in this state and to make such examination or inspection as may be necessary to determine whether any of the provisions of this chapter or of any rule and regulation adopted under this chapter relating to the sale of eggs are being violated. Inspectors, employees and authorized agents of the Department of Agriculture and Industries shall also have power and authority to inspect, examine and review books, records, invoices and other records of purchase and sales of eggs by any person or dealer to determine whether such purchases and sales of eggs comply with the requirements of this chapter. Whenever it is found that any person or dealer has failed to pay the inspection fee or charge levied for the sale or offering for sale of eggs as required under Section 2-9-40 or where it is found that the proper inspection fee labels have not been affixed to containers in which eggs are sold or offered for sale, the Commissioner of Agriculture and Industries is authorized to add a delinquent penalty fee of 15 percent to the amount determined to be due.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

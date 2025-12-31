@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act>
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-13" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-13" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#alabama-legislature" />
+          <akn:FRBRcountry value="us-al" />
+          <akn:FRBRnumber value="3-1-13" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-13/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-13/eng" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="en" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-al/act/code/3-1-13/eng@2025-12-31/akn.xml" />
+          <akn:FRBRuri value="/akn/us-al/act/code/3-1-13/eng/akn.xml" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references>
+        <akn:TLCOrganization eId="alabama-legislature" href="https://alison.legislature.state.al.us/" showAs="Alabama Legislature" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai/" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="note_history">
+          <akn:p>(Acts 1961, Ex. Sess., No. 84, p. 2001.)</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:title eId="title_3">
+        <akn:chapter eId="title_3_chp_1">
+          <akn:section eId="sec_3_1_13">
+            <akn:num>3-1-13</akn:num>
+            <akn:heading>Right of Officers, Etc., of Humane Societies to Take Charge of and Care for Neglected or Abused Animals; Written Notice to Owner from Whom Animal Taken; Lien for Expenses for Care and Keeping of Animal</akn:heading>
+            <akn:intro>
+              <akn:p>Any duly authorized officer or employee of a recognized humane society shall have the right to take charge of any animal which is sick or disabled due to neglect or is being cruelly treated or abused and to provide care for such animal until it is deemed to be in suitable condition to be returned to its owner or to the person from whose custody such animal was taken.</akn:p>
+            </akn:intro>
+            <akn:content>
+              <akn:p>The officer so taking such animal shall at the time of taking the animal give written notice to the owner or person from whose custody it was taken.</akn:p>
+            </akn:content>
+            <akn:content>
+              <akn:p>The necessary expenses incurred for the care and keeping of the animal after such notice by the humane society shall be a lien thereon and, if the animal is not reclaimed within 10 days from the giving of such notice, the humane society may sell the animal to satisfy such lien. If the humane society determines that the animal cannot be sold, it may cause the animal to be otherwise disposed of.</akn:p>
+            </akn:content>
+          </akn:section>
+        </akn:chapter>
+      </akn:title>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>
